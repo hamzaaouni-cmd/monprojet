@@ -55,6 +55,6 @@ if (isset($_GET['search'])) {
 
     echo "</div>";
 } else {
-    echo "<h2>Entrez votre recherche</h2>";
+    echo "<h2>Entrez vazu recherche</h2>";
 }
 ?>
